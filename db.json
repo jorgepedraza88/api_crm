@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Anna Hurtado",
+      "empresa": "Bon Granel2",
+      "email": "anna@hurtado.co",
+      "telefono": "622320595",
+      "notas": "Es el dueño MÁS MOLÓN del mundo",
+      "id": 1
+    },
+    {
+      "nombre": "Claudia",
+      "empresa": "De nadie",
+      "email": "correo@correo.com",
+      "telefono": "454878112",
+      "notas": "Es la empleada",
+      "id": 4
+    },
+    {
+      "nombre": "Rafael Hurtado",
+      "empresa": "Porterisimo",
+      "email": "rafaelhn@hotmail.com",
+      "telefono": "622350494",
+      "notas": "Es el padre de Anna y le duele la pierna.",
+      "id": 5
+    },
+    {
+      "nombre": "Anna",
+      "empresa": "Bon Granel",
+      "email": "anna@correo.com",
+      "telefono": "65478959",
+      "notas": "Es la mejor",
+      "id": 6
+    },
+    {
+      "nombre": "Anna",
+      "empresa": "Pues esto y lo otro",
+      "email": "anna@correo.com",
+      "telefono": "65478959",
+      "notas": "Es la mejor",
+      "id": 7
+    }
+  ]
+}
