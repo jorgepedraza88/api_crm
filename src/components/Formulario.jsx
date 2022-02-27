@@ -62,7 +62,7 @@ const Formulario = ({cliente, cargando}) => {
             await respuesta.json()
             
 
-            navigate('/clientes')
+            navigate('/')
 
         } catch (error) {
             console.log(error)

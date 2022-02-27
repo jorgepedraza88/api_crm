@@ -12,8 +12,8 @@ const Layout = () => {
         <h2 className='text-4xl font-black text-center text-white'>CRM - Clientes</h2>
         {/* Sidebar */}
         <nav className='mt-10'>
-          <Link className={`${urlActual === '/clientes' ? 'text-blue-300' : 'text-white'} link`} to="/clientes">Clientes</Link>
-          <Link className={`${urlActual === '/clientes/nuevo' ? 'text-blue-300' : 'text-white'} link`} to="/clientes/nuevo">Nuevo Cliente</Link>
+          <Link className={`${urlActual === '/' ? 'text-blue-300' : 'text-white'} link`} to="/">Clientes</Link>
+          <Link className={`${urlActual === '/nuevo' ? 'text-blue-300' : 'text-white'} link`} to="/nuevo">Nuevo Cliente</Link>
         </nav>
 
       </div>
